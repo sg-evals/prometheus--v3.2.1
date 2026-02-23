@@ -1,6 +1,6 @@
 module github.com/prometheus/prometheus
 
-go 1.22.7
+go 1.23.0
 
 toolchain go1.23.4
 
@@ -17,7 +17,7 @@ require (
 	github.com/bboreham/go-loser v0.0.0-20230920113527-fcc2c21820a3
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/dennwc/varint v1.0.0
-	github.com/digitalocean/godo v1.132.0
+	github.com/digitalocean/godo v1.175.0
 	github.com/docker/docker v27.4.1+incompatible
 	github.com/edsrzf/mmap-go v1.2.0
 	github.com/envoyproxy/go-control-plane/envoy v1.32.3
@@ -79,7 +79,7 @@ require (
 	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/goleak v1.3.0
 	go.uber.org/multierr v1.11.0
-	golang.org/x/oauth2 v0.25.0
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/sync v0.10.0
 	golang.org/x/sys v0.29.0
 	golang.org/x/text v0.21.0
