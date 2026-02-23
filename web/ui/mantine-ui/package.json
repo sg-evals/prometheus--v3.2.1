@@ -47,7 +47,7 @@
     "react-router-dom": "^7.1.1",
     "sanitize-html": "^2.14.0",
     "uplot": "^1.6.31",
-    "uplot-react": "^1.2.2",
+    "uplot-react": "^1.2.4",
     "use-query-params": "^2.2.1"
   },
   "devDependencies": {
